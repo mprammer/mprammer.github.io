@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="10 10 80 80" width="400" height="400">
+  <!-- Background circle, slightly larger than the ring -->
+  <circle cx="50" cy="50" r="40" fill="#8B1F1F"/>
+
+  <!-- Ring -->
+  <circle cx="50" cy="50" r="35" fill="none" stroke="#6B9CB5" stroke-width="1.6"/>
+
+  <!-- "Open Review" text, two lines, left-aligned to each other -->
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#FFFFFF" text-anchor="start" font-size="16">
+    <text x="22" y="45">Open</text>
+    <text x="22" y="63">Review</text>
+  </g>
+</svg>
